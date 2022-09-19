@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <a href="https://redespring.net"><img src="./assets/logo-text.png" /></a>
 </div>
 
